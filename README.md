@@ -55,7 +55,6 @@ An end-to-end machine learning solution was developed to automate the classifica
 
 📊 ## Results
 
-
 The deployed model demonstrated high accuracy in classifying infrastructure projects, proving the effectiveness of using automated AI tools for rapid development and deployment. The project successfully met all requirements for the final evaluation and submission.
 
 ![Project 01](https://github.com/user-attachments/assets/c0079349-a3b0-464d-a285-a6c99f7555dc)

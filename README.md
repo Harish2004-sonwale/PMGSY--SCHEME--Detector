@@ -243,13 +243,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- This project was inspired by the original work from [aditya-kr86/PMGSY_Multiclass_ML](https://github.com/aditya-kr86/PMGSY_Multiclass_ML)
 - Special thanks to IBM SkillsBuild for the learning resources
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! IBM CLOUD 
 
-## 📧 Contact
-
-For any questions or feedback, please open an issue on GitHub.
